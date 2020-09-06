@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_bulb">
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath1" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath2" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath3" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath4" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath5" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath6" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath7" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath8" />
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="shinePath9" />
+
+    <target
+        android:animation="@animator/anim_torch_off"
+        android:name="wirePath" />
+
+</animated-vector>

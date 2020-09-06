@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="250"
+    android:propertyName="pathData"
+    android:valueFrom="M556.665,299.199c0,-0.001 -95.597,-186.4 -257.196,-189.6h1.06c-161.599,3.2 -257.194,189.599 -257.194,189.6l-22.8,0.8c0,-154.344 125.12,-279.466 279.466,-279.466c154.344,0 279.466,125.122 279.466,279.466L556.665,299.199z"
+    android:valueTo="M556.665,299.199c0,-0.001 -95.597,3.6 -257.196,0.4h1.06c-161.599,3.2 -257.194,-0.401 -257.194,-0.4l-22.8,0.8c0,-154.344 125.12,-279.466 279.466,-279.466c154.344,0 279.466,125.122 279.466,279.466L556.665,299.199z"
+    android:valueType="pathType"
+    android:repeatCount="1"
+    android:repeatMode="reverse">
+</objectAnimator>

@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="150dp"
+    android:viewportWidth="600"
+    android:viewportHeight="600">
+  <path
+      android:pathData="M550,300c0,20.71 -11.548,37.5 -25.794,37.5H75.794C61.549,337.5 50,320.71 50,300l0,0c0,-20.711 11.548,-37.5 25.793,-37.5h448.413C538.452,262.5 550,279.289 550,300L550,300z"
+      android:strokeWidth="20"
+      android:strokeColor="#000000"/>
+  <path
+      android:pathData="M550,150c0,20.71 -11.548,37.5 -25.794,37.5H75.794C61.549,187.5 50,170.71 50,150l0,0c0,-20.711 11.548,-37.5 25.793,-37.5h448.413C538.452,112.5 550,129.289 550,150L550,150z"
+      android:strokeWidth="20"
+      android:strokeColor="#000000"/>
+  <path
+      android:pathData="M550,450c0,20.71 -11.548,37.5 -25.794,37.5H75.794C61.549,487.5 50,470.71 50,450l0,0c0,-20.711 11.548,-37.5 25.793,-37.5h448.413C538.452,412.5 550,429.289 550,450L550,450z"
+      android:strokeWidth="20"
+      android:strokeColor="#000000"/>
+  <path
+      android:name="topSlider"
+      android:trimPathEnd="0"
+      android:pathData="M72,150L386.5,150"
+      android:strokeWidth="60"
+      android:strokeColor="#000000"
+      android:strokeLineCap="round"/>
+  <path
+      android:name="midSlider"
+      android:trimPathEnd="0"
+      android:pathData="M72,300L282.5,300"
+      android:strokeWidth="60"
+      android:strokeColor="#000000"
+      android:strokeLineCap="round"/>
+  <path
+      android:name="bottomSlider"
+      android:trimPathEnd="0"
+      android:pathData="M72,450L476.5,450"
+      android:strokeWidth="60"
+      android:strokeColor="#000000"
+      android:strokeLineCap="round"/>
+</vector>

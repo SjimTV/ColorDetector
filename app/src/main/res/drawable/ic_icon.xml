@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:height="55dp"
+            android:width="55dp"
+        android:gravity="center">
+        <shape android:shape="rectangle" >
+            <corners android:radius="20dp"/>
+            <solid android:color="#FFFFFF"/>
+        </shape>
+
+    </item>
+    <item
+        android:drawable="@drawable/ic_eye_background"
+        android:width="40dp"
+        android:height="40dp"
+        android:gravity="center"
+        />
+    <item android:drawable="@drawable/ic_eye_fore_open"
+        android:width="40dp"
+        android:height="40dp"
+        android:gravity="center"/>
+
+
+
+</layer-list>

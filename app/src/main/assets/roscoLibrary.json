@@ -1,0 +1,1018 @@
+{
+  "colorLibrary":[
+    {
+      "name":"ROSCO000 Clear",
+      "red":255,
+      "green":255,
+      "blue":255
+    },
+    {
+      "name":"ROSCO001 Light Bastard Amber",
+      "red":255,
+      "green":96,
+      "blue":96
+    },
+    {
+      "name":"ROSCO002 Bastard Amber",
+      "red":255,
+      "green":192,
+      "blue":160
+    },
+    {
+      "name":"ROSCO003 Dark Bastard Amber",
+      "red":255,
+      "green":159,
+      "blue":120
+    },
+    {
+      "name":"ROSCO004 Medium Bastard Amber",
+      "red":253,
+      "green":157,
+      "blue":125
+    },
+    {
+      "name":"ROSCO005 Rose Tint",
+      "red":254,
+      "green":190,
+      "blue":209
+    },
+    {
+      "name":"ROSCO006 No Color Straw",
+      "red":253,
+      "green":255,
+      "blue":215
+    },
+    {
+      "name":"ROSCO007 Pale Yellow",
+      "red":255,
+      "green":255,
+      "blue":176
+    },
+    {
+      "name":"ROSCO008 Pale Gold",
+      "red":239,
+      "green":207,
+      "blue":143
+    },
+    {
+      "name":"ROSCO009 Pale Amber Gold",
+      "red":253,
+      "green":183,
+      "blue":79
+    },
+    {
+      "name":"ROSCO010 Medium Yellow",
+      "red":255,
+      "green":255,
+      "blue":32
+    },
+    {
+      "name":"ROSCO011 Light Straw",
+      "red":253,
+      "green":204,
+      "blue":36
+    },
+    {
+      "name":"ROSCO012 Straw",
+      "red":239,
+      "green":255,
+      "blue":0
+    },
+    {
+      "name":"ROSCO013 Straw Tint",
+      "red":254,
+      "green":198,
+      "blue":114
+    },
+    {
+      "name":"ROSCO014 Medium Straw",
+      "red":254,
+      "green":171,
+      "blue":48
+    },
+    {
+      "name":"ROSCO015 Deep Straw",
+      "red":248,
+      "green":149,
+      "blue":1
+    },
+    {
+      "name":"ROSCO016 Light Amber",
+      "red":255,
+      "green":96,
+      "blue":0
+    },
+    {
+      "name":"ROSCO017 Light Flame",
+      "red":239,
+      "green":63,
+      "blue":32
+    },
+    {
+      "name":"ROSCO018 Flame",
+      "red":240,
+      "green":16,
+      "blue":0
+    },
+    {
+      "name":"ROSCO019 Fire",
+      "red":255,
+      "green":4,
+      "blue":4
+    },
+    {
+      "name":"ROSCO020 Medium Amber",
+      "red":253,
+      "green":140,
+      "blue":66
+    },
+    {
+      "name":"ROSCO021 Golden Amber",
+      "red":236,
+      "green":96,
+      "blue":2
+    },
+    {
+      "name":"ROSCO022 Deep Amber",
+      "red":253,
+      "green":64,
+      "blue":49
+    },
+    {
+      "name":"ROSCO023 Orange",
+      "red":253,
+      "green":108,
+      "blue":66
+    },
+    {
+      "name":"ROSCO024 Scarlet",
+      "red":191,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO025 Orange Red",
+      "red":255,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO026 Light Red",
+      "red":159,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO027 Medium Red",
+      "red":96,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO030 Light Salmon Pink",
+      "red":254,
+      "green":101,
+      "blue":88
+    },
+    {
+      "name":"ROSCO031 Salmon Pink",
+      "red":254,
+      "green":99,
+      "blue":134
+    },
+    {
+      "name":"ROSCO032 Medium Salmon Pink",
+      "red":252,
+      "green":1,
+      "blue":57
+    },
+    {
+      "name":"ROSCO033 No Color Pink",
+      "red":255,
+      "green":128,
+      "blue":160
+    },
+    {
+      "name":"ROSCO034 Flesh Pink",
+      "red":255,
+      "green":32,
+      "blue":64
+    },
+    {
+      "name":"ROSCO035 Light Pink",
+      "red":255,
+      "green":164,
+      "blue":175
+    },
+    {
+      "name":"ROSCO036 Medium Pink",
+      "red":232,
+      "green":91,
+      "blue":137
+    },
+    {
+      "name":"ROSCO037 Pale Rose Pink",
+      "red":255,
+      "green":128,
+      "blue":175
+    },
+    {
+      "name":"ROSCO038 Light Rose",
+      "red":255,
+      "green":96,
+      "blue":175
+    },
+    {
+      "name":"ROSCO040 Light Salmon",
+      "red":255,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO041 Salmon",
+      "red":239,
+      "green":0,
+      "blue":16
+    },
+    {
+      "name":"ROSCO042 Deep Salmon",
+      "red":144,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO043 Deep Pink",
+      "red":255,
+      "green":0,
+      "blue":112
+    },
+    {
+      "name":"ROSCO044 Middle Rose",
+      "red":223,
+      "green":0,
+      "blue":112
+    },
+    {
+      "name":"ROSCO045 Rose",
+      "red":144,
+      "green":0,
+      "blue":32
+    },
+    {
+      "name":"ROSCO046 Magenta",
+      "red":96,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO047 Light Rose Purple",
+      "red":64,
+      "green":0,
+      "blue":64
+    },
+    {
+      "name":"ROSCO048 Rose Purple",
+      "red":183,
+      "green":2,
+      "blue":183
+    },
+    {
+      "name":"ROSCO049 Medium Purple",
+      "red":112,
+      "green":0,
+      "blue":80
+    },
+    {
+      "name":"ROSCO050 Mauve",
+      "red":112,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO051 Surprise Pink",
+      "red":255,
+      "green":128,
+      "blue":255
+    },
+    {
+      "name":"ROSCO052 Light Lavender",
+      "red":175,
+      "green":16,
+      "blue":239
+    },
+    {
+      "name":"ROSCO053 Pale Lavender",
+      "red":191,
+      "green":192,
+      "blue":255
+    },
+    {
+      "name":"ROSCO054 Special Lavender",
+      "red":192,
+      "green":160,
+      "blue":255
+    },
+    {
+      "name":"ROSCO055 Lilac",
+      "red":109,
+      "green":79,
+      "blue":255
+    },
+    {
+      "name":"ROSCO056 Gypsy Lavender",
+      "red":64,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"ROSCO057 Lavender",
+      "red":64,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"ROSCO058 Deep Lavender",
+      "red":64,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"ROSCO059 Indigo",
+      "red":48,
+      "green":0,
+      "blue":80
+    },
+    {
+      "name":"ROSCO060 No Color Blue",
+      "red":128,
+      "green":192,
+      "blue":255
+    },
+    {
+      "name":"ROSCO061 Mist Blue",
+      "red":80,
+      "green":192,
+      "blue":208
+    },
+    {
+      "name":"ROSCO062 Booster Blue",
+      "red":80,
+      "green":144,
+      "blue":191
+    },
+    {
+      "name":"ROSCO063 Pale Blue",
+      "red":16,
+      "green":144,
+      "blue":191
+    },
+    {
+      "name":"ROSCO064 Light Steel Blue",
+      "red":0,
+      "green":80,
+      "blue":240
+    },
+    {
+      "name":"ROSCO065 Daylight Blue",
+      "red":0,
+      "green":64,
+      "blue":255
+    },
+    {
+      "name":"ROSCO066 Cool Blue",
+      "red":0,
+      "green":192,
+      "blue":192
+    },
+    {
+      "name":"ROSCO067 Light Sky Blue",
+      "red":0,
+      "green":96,
+      "blue":255
+    },
+    {
+      "name":"ROSCO068 Sky Blue",
+      "red":0,
+      "green":0,
+      "blue":208
+    },
+    {
+      "name":"ROSCO069 Brilliant Blue",
+      "red":0,
+      "green":64,
+      "blue":223
+    },
+    {
+      "name":"ROSCO070 Nile Blue",
+      "red":16,
+      "green":160,
+      "blue":176
+    },
+    {
+      "name":"ROSCO071 Sea Blue",
+      "red":0,
+      "green":128,
+      "blue":144
+    },
+    {
+      "name":"ROSCO072 Azure Blue",
+      "red":0,
+      "green":160,
+      "blue":207
+    },
+    {
+      "name":"ROSCO073 Peacock Blue",
+      "red":16,
+      "green":144,
+      "blue":144
+    },
+    {
+      "name":"ROSCO074 Night Blue",
+      "red":0,
+      "green":0,
+      "blue":176
+    },
+    {
+      "name":"ROSCO076 Light Green Blue",
+      "red":0,
+      "green":128,
+      "blue":144
+    },
+    {
+      "name":"ROSCO077 Green Blue",
+      "red":0,
+      "green":128,
+      "blue":223
+    },
+    {
+      "name":"ROSCO078 Trudy Blue",
+      "red":32,
+      "green":16,
+      "blue":176
+    },
+    {
+      "name":"ROSCO079 Bright Blue",
+      "red":0,
+      "green":0,
+      "blue":208
+    },
+    {
+      "name":"ROSCO080 Primary Blue",
+      "red":0,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"ROSCO081 Urban Blue",
+      "red":36,
+      "green":1,
+      "blue":201
+    },
+    {
+      "name":"ROSCO082 Surprise Blue",
+      "red":16,
+      "green":0,
+      "blue":112
+    },
+    {
+      "name":"ROSCO083 Medium Blue",
+      "red":0,
+      "green":0,
+      "blue":96
+    },
+    {
+      "name":"ROSCO084 Zephyr Blue",
+      "red":30,
+      "green":1,
+      "blue":163
+    },
+    {
+      "name":"ROSCO085 Deep Blue",
+      "red":0,
+      "green":0,
+      "blue":96
+    },
+    {
+      "name":"ROSCO086 Pea Green",
+      "red":0,
+      "green":143,
+      "blue":0
+    },
+    {
+      "name":"ROSCO087 Pale Yellow Green",
+      "red":192,
+      "green":255,
+      "blue":128
+    },
+    {
+      "name":"ROSCO088 Light Green",
+      "red":128,
+      "green":255,
+      "blue":80
+    },
+    {
+      "name":"ROSCO089 Moss Green",
+      "red":0,
+      "green":122,
+      "blue":0
+    },
+    {
+      "name":"ROSCO090 Dark Yellow Green",
+      "red":16,
+      "green":95,
+      "blue":0
+    },
+    {
+      "name":"ROSCO091 Primary Green",
+      "red":0,
+      "green":64,
+      "blue":0
+    },
+    {
+      "name":"ROSCO092 Turquoise",
+      "red":0,
+      "green":191,
+      "blue":127
+    },
+    {
+      "name":"ROSCO093 Blue Green",
+      "red":0,
+      "green":176,
+      "blue":96
+    },
+    {
+      "name":"ROSCO094 Kelly Green",
+      "red":46,
+      "green":135,
+      "blue":104
+    },
+    {
+      "name":"ROSCO095 Medium Blue Green",
+      "red":0,
+      "green":96,
+      "blue":80
+    },
+    {
+      "name":"ROSCO096 Lime",
+      "red":191,
+      "green":255,
+      "blue":0
+    },
+    {
+      "name":"ROSCO097 Light Grey",
+      "red":192,
+      "green":192,
+      "blue":192
+    },
+    {
+      "name":"ROSCO098 Medium Grey",
+      "red":112,
+      "green":112,
+      "blue":112
+    },
+    {
+      "name":"ROSCO099 Chocolate",
+      "red":144,
+      "green":112,
+      "blue":96
+    },
+    {
+      "name":"ROSCO120 Red Diffusion",
+      "red":142,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO121 Blue Diffusion",
+      "red":0,
+      "green":0,
+      "blue":205
+    },
+    {
+      "name":"ROSCO122 Green Diffusion",
+      "red":0,
+      "green":72,
+      "blue":0
+    },
+    {
+      "name":"ROSCO123 Amber Diffusion",
+      "red":255,
+      "green":45,
+      "blue":45
+    },
+    {
+      "name":"ROSCO124 Red Cyc Silk",
+      "red":151,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"ROSCO125 Blue Cyc Silk",
+      "red":0,
+      "green":0,
+      "blue":198
+    },
+    {
+      "name":"ROSCO126 Green Cyc Silk",
+      "red":0,
+      "green":62,
+      "blue":0
+    },
+    {
+      "name":"ROSCO127 Amber Cyc Silk",
+      "red":255,
+      "green":26,
+      "blue":26
+    },
+    {
+      "name":"ROSCO128 Magenta Silk",
+      "red":81,
+      "green":0,
+      "blue":61
+    },
+    {
+      "name":"ROSCO129 Sky Blue Silk",
+      "red":0,
+      "green":0,
+      "blue":251
+    },
+    {
+      "name":"ROSCO130 Medium Blue Green Silk",
+      "red":0,
+      "green":89,
+      "blue":74
+    },
+    {
+      "name":"ROSCO131 Medium Amber Silk",
+      "red":253,
+      "green":126,
+      "blue":0
+    },
+    {
+      "name":"ROSCO150 Hamburg Rose",
+      "red":254,
+      "green":203,
+      "blue":218
+    },
+    {
+      "name":"ROSCO151 Hamburg Lavender",
+      "red":197,
+      "green":56,
+      "blue":250
+    },
+    {
+      "name":"ROSCO152 Hamburg Steel Blue",
+      "red":0,
+      "green":0,
+      "blue":191
+    },
+    {
+      "name":"ROSCO304 Pale Apricot",
+      "red":255,
+      "green":160,
+      "blue":128
+    },
+    {
+      "name":"ROSCO305 Rose Gold",
+      "red":255,
+      "green":128,
+      "blue":96
+    },
+    {
+      "name":"ROSCO312 Canary",
+      "red":252,
+      "green":223,
+      "blue":90
+    },
+    {
+      "name":"ROSCO317 Apricot",
+      "red":239,
+      "green":16,
+      "blue":0
+    },
+    {
+      "name":"ROSCO321 Soft Golden Amber",
+      "red":223,
+      "green":32,
+      "blue":0
+    },
+    {
+      "name":"ROSCO337 True Pink",
+      "red":255,
+      "green":138,
+      "blue":197
+    },
+    {
+      "name":"ROSCO339 Broadway Pink",
+      "red":255,
+      "green":0,
+      "blue":144
+    },
+    {
+      "name":"ROSCO342 Rose Pink",
+      "red":207,
+      "green":0,
+      "blue":80
+    },
+    {
+      "name":"ROSCO344 Follies Pink",
+      "red":224,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"ROSCO355 Pale Violet",
+      "red":64,
+      "green":32,
+      "blue":160
+    },
+    {
+      "name":"ROSCO356 Middle Lavender",
+      "red":174,
+      "green":53,
+      "blue":255
+    },
+    {
+      "name":"ROSCO357 Royal Lavender",
+      "red":48,
+      "green":0,
+      "blue":112
+    },
+    {
+      "name":"ROSCO358 Rose Indigo",
+      "red":32,
+      "green":0,
+      "blue":80
+    },
+    {
+      "name":"ROSCO359 Medium Violet",
+      "red":16,
+      "green":0,
+      "blue":96
+    },
+    {
+      "name":"ROSCO378 Alice Blue",
+      "red":80,
+      "green":0,
+      "blue":208
+    },
+    {
+      "name":"ROSCO383 Sapphire Blue",
+      "red":26,
+      "green":0,
+      "blue":130
+    },
+    {
+      "name":"ROSCO385 Royal Blue",
+      "red":0,
+      "green":0,
+      "blue":79
+    },
+    {
+      "name":"ROSCO388 Gaslight Green",
+      "red":0,
+      "green":224,
+      "blue":0
+    },
+    {
+      "name":"ROSCO389 Chroma Green",
+      "red":0,
+      "green":127,
+      "blue":0
+    },
+    {
+      "name":"ROSCO397 Pale Grey",
+      "red":224,
+      "green":224,
+      "blue":224
+    },
+    {
+      "name":"ROSCO3102 Tough MT2",
+      "red":255,
+      "green":96,
+      "blue":0
+    },
+    {
+      "name":"ROSCO3106 Tough MTY",
+      "red":239,
+      "green":63,
+      "blue":32
+    },
+    {
+      "name":"ROSCO3107 Tough Y-1",
+      "red":253,
+      "green":255,
+      "blue":215
+    },
+    {
+      "name":"ROSCO3114 Tough UV Filter",
+      "red":255,
+      "green":255,
+      "blue":255
+    },
+    {
+      "name":"ROSCO3134 Tough MT 54",
+      "red":239,
+      "green":207,
+      "blue":143
+    },
+    {
+      "name":"ROSCO3202 Full Blue (CTB)",
+      "red":96,
+      "green":0,
+      "blue":223
+    },
+    {
+      "name":"ROSCO3203 Three-Quarter Blue (3/4 CTB)",
+      "red":0,
+      "green":24,
+      "blue":136
+    },
+    {
+      "name":"ROSCO3204 Half Blue (1/2 CTB)",
+      "red":128,
+      "green":96,
+      "blue":255
+    },
+    {
+      "name":"ROSCO3206 Third Blue (1/3 CTB)",
+      "red":176,
+      "green":176,
+      "blue":240
+    },
+    {
+      "name":"ROSCO3208 Quarter Blue (1/4 CTB)",
+      "red":191,
+      "green":223,
+      "blue":255
+    },
+    {
+      "name":"ROSCO3216 Eighth Blue (1/8 CTB)",
+      "red":223,
+      "green":223,
+      "blue":223
+    },
+    {
+      "name":"ROSCO3220 Double Blue (2x CTB)",
+      "red":36,
+      "green":1,
+      "blue":201
+    },
+    {
+      "name":"ROSCO3304 Tough Plusgreen / WindowGreen",
+      "red":112,
+      "green":223,
+      "blue":64
+    },
+    {
+      "name":"ROSCO3308 Tough Minusgreen",
+      "red":255,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"ROSCO3310 Fluorofilter",
+      "red":255,
+      "green":39,
+      "blue":28
+    },
+    {
+      "name":"ROSCO3313 Tough 1/2 Minusgreen",
+      "red":255,
+      "green":0,
+      "blue":255
+    },
+    {
+      "name":"ROSCO3314 Tough 1/4 Minusgreen",
+      "red":255,
+      "green":128,
+      "blue":192
+    },
+    {
+      "name":"ROSCO3315 Tough 1/2 Plusgreen",
+      "red":192,
+      "green":255,
+      "blue":128
+    },
+    {
+      "name":"ROSCO3316 Tough 1/4 Plusgreen",
+      "red":203,
+      "green":255,
+      "blue":151
+    },
+    {
+      "name":"ROSCO3317 Tough 1/8 Plusgreen",
+      "red":220,
+      "green":255,
+      "blue":185
+    },
+    {
+      "name":"ROSCO3318 Tough 1/8 Minusgreen",
+      "red":255,
+      "green":128,
+      "blue":255
+    },
+    {
+      "name":"ROSCO3401 RoscoSun 85",
+      "red":239,
+      "green":80,
+      "blue":0
+    },
+    {
+      "name":"ROSCO3402 Rosco N.3",
+      "red":192,
+      "green":192,
+      "blue":192
+    },
+    {
+      "name":"ROSCO3403 Rosco N.6",
+      "red":112,
+      "green":112,
+      "blue":112
+    },
+    {
+      "name":"ROSCO3404 Rosco N.9",
+      "red":32,
+      "green":32,
+      "blue":32
+    },
+    {
+      "name":"ROSCO3405 RoscoSun 85N.3",
+      "red":144,
+      "green":112,
+      "blue":96
+    },
+    {
+      "name":"ROSCO3406 RoscoSun 85N.6",
+      "red":112,
+      "green":80,
+      "blue":80
+    },
+    {
+      "name":"ROSCO3407 RoscoSun (CTO)",
+      "red":191,
+      "green":64,
+      "blue":0
+    },
+    {
+      "name":"ROSCO3408 RoscoSun (1/2 CTO)",
+      "red":255,
+      "green":128,
+      "blue":0
+    },
+    {
+      "name":"ROSCO3409 RoscoSun (1/4 CTO)",
+      "red":255,
+      "green":191,
+      "blue":143
+    },
+    {
+      "name":"ROSCO3410 RoscoSun (1/8 CTO)",
+      "red":255,
+      "green":224,
+      "blue":192
+    },
+    {
+      "name":"ROSCO3411 RoscoSun (3/4 CTO)",
+      "red":215,
+      "green":32,
+      "blue":0
+    },
+    {
+      "name":"ROSCO3415 Rosco N.15",
+      "red":224,
+      "green":224,
+      "blue":224
+    },
+    {
+      "name":"ROSCO3441 Full Straw (CTS)",
+      "red":255,
+      "green":96,
+      "blue":0
+    },
+    {
+      "name":"ROSCO3442 Half Straw (1/2 CTS)",
+      "red":254,
+      "green":198,
+      "blue":114
+    },
+    {
+      "name":"ROSCO3443 Quarter Straw (1/4 CTS)",
+      "red":239,
+      "green":207,
+      "blue":143
+    },
+    {
+      "name":"ROSCO3444 Eighth Straw (1/8 CTS)",
+      "red":254,
+      "green":232,
+      "blue":186
+    },
+    {
+      "name":"ROSCO3761 Roscolex 85",
+      "red":255,
+      "green":96,
+      "blue":32
+    }
+  ]
+}

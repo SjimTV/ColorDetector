@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_eye_fore_open">
+    <target
+        android:animation="@animator/anim_eye_top"
+        android:name="upperLid" />
+    <target
+        android:animation="@animator/anim_eye_bottom"
+        android:name="bottomLid" />
+
+
+</animated-vector>

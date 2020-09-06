@@ -1,0 +1,30 @@
+<vector android:height="150dp" android:viewportHeight="600"
+    android:viewportWidth="600" android:width="150dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000"
+        android:pathData="M115.5,170v355c0,0 0.04,37.5 32.7,37.5h303.6c32.66,0 31.7,-37.5 31.7,-37.5V170"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M299.5,201L299.5,474"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M207.5,235L207.5,435"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M391.5,235L391.5,435"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M66.191,554L86.754,94.459"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M80.693,224.317c0,0 -55.724,20.53 -57.154,52.498c-2.012,44.955 -2.012,44.955 -4.022,89.91c-0.87,19.426 52.361,57.397 52.361,57.397"
+        android:strokeColor="#000000" android:strokeLineJoin="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M229.189,85.869L298.486,155.166"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M369.197,86.576L299.9,155.873"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+    <path android:fillColor="#00000000"
+        android:pathData="M299.5,22L299.5,135"
+        android:strokeColor="#000000" android:strokeLineCap="round" android:strokeWidth="25"/>
+</vector>

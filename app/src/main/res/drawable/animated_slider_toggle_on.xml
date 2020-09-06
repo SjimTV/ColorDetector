@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_menu_bar">
+    <target
+        android:animation="@animator/anim_sliders_on"
+        android:name="topSlider" />
+    <target
+        android:animation="@animator/anim_sliders_on"
+        android:name="midSlider" />
+    <target
+        android:animation="@animator/anim_sliders_on"
+        android:name="bottomSlider" />
+
+</animated-vector>

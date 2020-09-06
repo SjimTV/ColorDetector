@@ -1,0 +1,466 @@
+{
+  "colorLibrary": [
+    {
+      "name": "LEE004 Medium Bastard Amber",
+      "red": 255,
+      "green": 118,
+      "blue": 0,
+      "white": 109
+    },
+    {
+      "name": "LEE019 Fire",
+      "red": 255,
+      "green": 50,
+      "blue": 0,
+      "white": 3
+    },
+    {
+      "name": "LEE025 Sunset Red",
+      "red": 255,
+      "green": 13,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE026 Bright Red",
+      "red": 255,
+      "green": 0,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE036 Medium Pink",
+      "red": 225,
+      "green": 74,
+      "blue": 8,
+      "white": 24
+    },
+    {
+      "name": "LEE049 Medium Purple",
+      "red": 255,
+      "green": 0,
+      "blue": 27,
+      "white": 0
+    },
+    {
+      "name": "LEE052 Light Lavender",
+      "red": 227,
+      "green": 86,
+      "blue": 14,
+      "white": 134
+    },
+    {
+      "name": "LEE058 Lavender",
+      "red": 117,
+      "green": 0,
+      "blue": 97,
+      "white": 110
+    },
+    {
+      "name": "LEE068 Sky Blue",
+      "red": 42,
+      "green": 195,
+      "blue": 100,
+      "white": 0
+    },
+    {
+      "name": "LEE088 Lime Green",
+      "red": 187,
+      "green": 226,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE089 Moss Green",
+      "red": 69,
+      "green": 245,
+      "blue": 0,
+      "white": 3
+    },
+    {
+      "name": "LEE090 Dark Yellow Green",
+      "red": 0,
+      "green": 255,
+      "blue": 1,
+      "white": 0
+    },
+    {
+      "name": "LEE102 Light Amber",
+      "red": 233,
+      "green": 164,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE103 Straw",
+      "red": 207,
+      "green": 137,
+      "blue": 0,
+      "white": 33
+    },
+    {
+      "name": "LEE106 Primary Red",
+      "red": 242,
+      "green": 1,
+      "blue": 1,
+      "white": 0
+    },
+    {
+      "name": "LEE111 Dark Pink",
+      "red": 255,
+      "green": 67,
+      "blue": 11,
+      "white": 49
+    },
+    {
+      "name": "LEE115 Peacock Blue",
+      "red": 0,
+      "green": 255,
+      "blue": 28,
+      "white": 41
+    },
+    {
+      "name": "LEE117 Steel Blue",
+      "red": 163,
+      "green": 255,
+      "blue": 14,
+      "white": 161
+    },
+    {
+      "name": "LEE118 Light Blue",
+      "red": 0,
+      "green": 255,
+      "blue": 61,
+      "white": 34
+    },
+    {
+      "name": "LEE121 Filter Green",
+      "red": 165,
+      "green": 255,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE122 Fern Green",
+      "red": 98,
+      "green": 255,
+      "blue": 3,
+      "white": 2
+    },
+    {
+      "name": "LEE124 Dark Green",
+      "red": 29,
+      "green": 255,
+      "blue": 0,
+      "white": 12
+    },
+    {
+      "name": "LEE126 Mauve",
+      "red": 255,
+      "green": 0,
+      "blue": 39,
+      "white": 0
+    },
+    {
+      "name": "LEE128 Bright Pink",
+      "red": 255,
+      "green": 0,
+      "blue": 13,
+      "white": 32
+    },
+    {
+      "name": "LEE131 Marine Blue",
+      "red": 73,
+      "green": 245,
+      "blue": 27,
+      "white": 30
+    },
+    {
+      "name": "LEE132 Medium Blue",
+      "red": 0,
+      "green": 193,
+      "blue": 113,
+      "white": 0
+    },
+    {
+      "name": "LEE134 Golden Amber",
+      "red": 191,
+      "green": 83,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE135 Deep Golden Amber",
+      "red": 255,
+      "green": 52,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE136 Pale Lavender",
+      "red": 164,
+      "green": 96,
+      "blue": 29,
+      "white": 54
+    },
+    {
+      "name": "LEE137 Special Lavender",
+      "red": 130,
+      "green": 60,
+      "blue": 63,
+      "white": 102
+    },
+    {
+      "name": "LEE138 Pale Green",
+      "red": 226,
+      "green": 255,
+      "blue": 0,
+      "white": 51
+    },
+    {
+      "name": "LEE140 Summer Blue",
+      "red": 0,
+      "green": 161,
+      "blue": 7,
+      "white": 278
+    },
+    {
+      "name": "LEE141 Bright Blue",
+      "red": 8,
+      "green": 176,
+      "blue": 62,
+      "white": 0
+    },
+    {
+      "name": "LEE143 Pale Navy Blue",
+      "red": 0,
+      "green": 193,
+      "blue": 72,
+      "white": 148
+    },
+    {
+      "name": "LEE147 Apricot",
+      "red": 215,
+      "green": 104,
+      "blue": 0,
+      "white": 15
+    },
+    {
+      "name": "LEE148 Bright Rose",
+      "red": 255,
+      "green": 3,
+      "blue": 0,
+      "white": 37
+    },
+    {
+      "name": "LEE152 Pale Gold",
+      "red": 202,
+      "green": 115,
+      "blue": 0,
+      "white": 39
+    },
+    {
+      "name": "LEE154 Pale Rose",
+      "red": 214,
+      "green": 107,
+      "blue": 0,
+      "white": 48
+    },
+    {
+      "name": "LEE157 Pink",
+      "red": 255,
+      "green": 3,
+      "blue": 0,
+      "white": 37
+    },
+    {
+      "name": "LEE162 Bastard Amber",
+      "red": 223,
+      "green": 153,
+      "blue": 6,
+      "white": 41
+    },
+    {
+      "name": "LEE164 Flame Red",
+      "red": 255,
+      "green": 27,
+      "blue": 0,
+      "white": 4
+    },
+    {
+      "name": "LEE165 Daylight Blue",
+      "red": 23,
+      "green": 236,
+      "blue": 87,
+      "white": 81
+    },
+    {
+      "name": "LEE169 Lilac Tint",
+      "red": 206,
+      "green": 123,
+      "blue": 0,
+      "white": 110
+    },
+    {
+      "name": "LEE170 Deep Lavender",
+      "red": 235,
+      "green": 123,
+      "blue": 41,
+      "white": 33
+    },
+    {
+      "name": "LEE172 Lagoon Blue",
+      "red": 0,
+      "green": 255,
+      "blue": 54,
+      "white": 0
+    },
+    {
+      "name": "LEE180 Dark Lavender",
+      "red": 136,
+      "green": 43,
+      "blue": 181,
+      "white": 89
+    },
+    {
+      "name": "LEE181 Congo Blue",
+      "red": 37,
+      "green": 0,
+      "blue": 255,
+      "white": 0
+    },
+    {
+      "name": "LEE182 Light Red ",
+      "red": 255,
+      "green": 16,
+      "blue": 2,
+      "white": 0
+    },
+    {
+      "name": "LEE194 Surprise Pink",
+      "red": 110,
+      "green": 0,
+      "blue": 21,
+      "white": 255
+    },
+    {
+      "name": "LEE197 Alice Blue",
+      "red": 107,
+      "green": 220,
+      "blue": 129,
+      "white": 0
+    },
+    {
+      "name": "LEE201 Full C.T. Blue",
+      "red": 179,
+      "green": 255,
+      "blue": 57,
+      "white": 34
+    },
+    {
+      "name": "LEE202 Half C.T. Blue",
+      "red": 217,
+      "green": 255,
+      "blue": 37,
+      "white": 3
+    },
+    {
+      "name": "LEE203 Quarter C.T. Blue",
+      "red": 236,
+      "green": 255,
+      "blue": 30,
+      "white": 3
+    },
+    {
+      "name": "LEE204 Full C.T. Orange",
+      "red": 230,
+      "green": 125,
+      "blue": 3,
+      "white": 7
+    },
+    {
+      "name": "LEE206 Quarter C.T. Orange",
+      "red": 204,
+      "green": 140,
+      "blue": 0,
+      "white": 57
+    },
+    {
+      "name": "LEE219 Fluorescent Green",
+      "red": 99,
+      "green": 148,
+      "blue": 16,
+      "white": 50
+    },
+    {
+      "name": "LEE247 Filter Minus Green",
+      "red": 255,
+      "green": 81,
+      "blue": 0,
+      "white": 193
+    },
+    {
+      "name": "LEE248 Half Minus Green",
+      "red": 255,
+      "green": 144,
+      "blue": 0,
+      "white": 137
+    },
+    {
+      "name": "LEE281 Three Quarter C.T. Blue",
+      "red": 225,
+      "green": 255,
+      "blue": 72,
+      "white": 160
+    },
+    {
+      "name": "LEE285 Three Quarter C.T. Blue",
+      "red": 199,
+      "green": 124,
+      "blue": 0,
+      "white": 17
+    },
+    {
+      "name": "LEE352 Glacier Blue",
+      "red": 0,
+      "green": 161,
+      "blue": 65,
+      "white": 90
+    },
+    {
+      "name": "LEE353 Lighter Blue",
+      "red": 0,
+      "green": 115,
+      "blue": 37,
+      "white": 97
+    },
+    {
+      "name": "LEE507 Madge",
+      "red": 255,
+      "green": 31,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE778 Millenium Gold",
+      "red": 255,
+      "green": 65,
+      "blue": 0,
+      "white": 0
+    },
+    {
+      "name": "LEE793 Vanity Fair",
+      "red": 255,
+      "green": 0,
+      "blue": 13,
+      "white": 16
+    },
+    {
+      "name": "LEE798 Chrysalis Pink",
+      "red": 49,
+      "green": 0,
+      "blue": 98,
+      "white": 14
+    }
+  ]
+}

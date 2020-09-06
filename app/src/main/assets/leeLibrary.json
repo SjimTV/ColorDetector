@@ -1,0 +1,916 @@
+{
+  "colorLibrary":[
+    {
+      "name":"LEE002 Rose Pink",
+      "red":217,
+      "green":0,
+      "blue":145
+    },
+    {
+      "name":"LEE003 Lavender Tint",
+      "red":219,
+      "green":177,
+      "blue":255
+    },
+    {
+      "name":"LEE004 Medium Bastard Amber",
+      "red":255,
+      "green":125,
+      "blue":63
+    },
+    {
+      "name":"LEE007 Pale Yellow",
+      "red":255,
+      "green":255,
+      "blue":157
+    },
+    {
+      "name":"LEE008 Dark Salmon",
+      "red":255,
+      "green":39,
+      "blue":28
+    },
+    {
+      "name":"LEE009 Pale Amber Gold",
+      "red":255,
+      "green":160,
+      "blue":64
+    },
+    {
+      "name":"LEE010 Medium Yellow",
+      "red":255,
+      "green":220,
+      "blue":0
+    },
+    {
+      "name":"LEE013 Straw Tint",
+      "red":255,
+      "green":181,
+      "blue":98
+    },
+    {
+      "name":"LEE015 Deep Straw",
+      "red":253,
+      "green":130,
+      "blue":0
+    },
+    {
+      "name":"LEE019 Fire",
+      "red":252,
+      "green":1,
+      "blue":7
+    },
+    {
+      "name":"LEE020 Medium Amber",
+      "red":255,
+      "green":155,
+      "blue":106
+    },
+    {
+      "name":"LEE021 Gold Amber",
+      "red":253,
+      "green":92,
+      "blue":15
+    },
+    {
+      "name":"LEE022 Dark Amber",
+      "red":223,
+      "green":32,
+      "blue":32
+    },
+    {
+      "name":"LEE024 Scarlet",
+      "red":223,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"LEE026 Bright Red",
+      "red":202,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"LEE027 Medium Red",
+      "red":66,
+      "green":0,
+      "blue":8
+    },
+    {
+      "name":"LEE035 Light Pink",
+      "red":255,
+      "green":92,
+      "blue":130
+    },
+    {
+      "name":"LEE036 Mesium Pink",
+      "red":255,
+      "green":98,
+      "blue":133
+    },
+    {
+      "name":"LEE046 Dark Magenta",
+      "red":96,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"LEE048 Rose Purple",
+      "red":96,
+      "green":0,
+      "blue":92
+    },
+    {
+      "name":"LEE052 Light Lavender",
+      "red":99,
+      "green":0,
+      "blue":173
+    },
+    {
+      "name":"LEE053 Paler Lavender",
+      "red":162,
+      "green":192,
+      "blue":255
+    },
+    {
+      "name":"LEE058 Lavender",
+      "red":64,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"LEE061 Mist Blue",
+      "red":89,
+      "green":219,
+      "blue":251
+    },
+    {
+      "name":"LEE063 Pale Blue",
+      "red":0,
+      "green":160,
+      "blue":223
+    },
+    {
+      "name":"LEE068 Sky Blue",
+      "red":0,
+      "green":0,
+      "blue":147
+    },
+    {
+      "name":"LEE079 Just Blue",
+      "red":11,
+      "green":11,
+      "blue":153
+    },
+    {
+      "name":"LEE085 Deeper Blue",
+      "red":0,
+      "green":0,
+      "blue":66
+    },
+    {
+      "name":"LEE089 Moss Green",
+      "red":0,
+      "green":159,
+      "blue":0
+    },
+    {
+      "name":"LEE090 Dark Yellow Green",
+      "red":4,
+      "green":61,
+      "blue":0
+    },
+    {
+      "name":"LEE101 Yellow",
+      "red":255,
+      "green":191,
+      "blue":0
+    },
+    {
+      "name":"LEE102 Light Amber",
+      "red":251,
+      "green":210,
+      "blue":17
+    },
+    {
+      "name":"LEE103 Straw",
+      "red":255,
+      "green":222,
+      "blue":181
+    },
+    {
+      "name":"LEE104 Deep Amber",
+      "red":249,
+      "green":163,
+      "blue":34
+    },
+    {
+      "name":"LEE105 Orange",
+      "red":253,
+      "green":121,
+      "blue":2
+    },
+    {
+      "name":"LEE106 Primary Red",
+      "red":128,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"LEE107 Light Rose",
+      "red":255,
+      "green":79,
+      "blue":109
+    },
+    {
+      "name":"LEE109 Light Salman",
+      "red":241,
+      "green":103,
+      "blue":103
+    },
+    {
+      "name":"LEE110 Middle Rose",
+      "red":255,
+      "green":104,
+      "blue":168
+    },
+    {
+      "name":"LEE111 Dark Pink",
+      "red":236,
+      "green":55,
+      "blue":150
+    },
+    {
+      "name":"LEE113 Magenta",
+      "red":176,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"LEE115 Peacock Blue",
+      "red":21,
+      "green":155,
+      "blue":141
+    },
+    {
+      "name":"LEE116 Medium Blue-Green",
+      "red":0,
+      "green":79,
+      "blue":32
+    },
+    {
+      "name":"LEE117 Steel Blue",
+      "red":0,
+      "green":223,
+      "blue":255
+    },
+    {
+      "name":"LEE118 Light Blue",
+      "red":17,
+      "green":118,
+      "blue":255
+    },
+    {
+      "name":"LEE119 Dark Blue",
+      "red":0,
+      "green":16,
+      "blue":128
+    },
+    {
+      "name":"LEE120 Deep Blue",
+      "red":35,
+      "green":29,
+      "blue":118
+    },
+    {
+      "name":"LEE121 Lee Green",
+      "red":0,
+      "green":191,
+      "blue":0
+    },
+    {
+      "name":"LEE122 Fern Green",
+      "red":0,
+      "green":232,
+      "blue":0
+    },
+    {
+      "name":"LEE124 Dark Green",
+      "red":0,
+      "green":164,
+      "blue":0
+    },
+    {
+      "name":"LEE126 Mauve",
+      "red":96,
+      "green":0,
+      "blue":112
+    },
+    {
+      "name":"LEE127 Smokey Pink",
+      "red":112,
+      "green":48,
+      "blue":64
+    },
+    {
+      "name":"LEE128 Bright Pink",
+      "red":204,
+      "green":19,
+      "blue":116
+    },
+    {
+      "name":"LEE129 Heavy Frost",
+      "red":255,
+      "green":255,
+      "blue":255
+    },
+    {
+      "name":"LEE130 Clear",
+      "red":255,
+      "green":255,
+      "blue":255
+    },
+    {
+      "name":"LEE132 Medium Blue",
+      "red":0,
+      "green":0,
+      "blue":192
+    },
+    {
+      "name":"LEE134 Golden Amber",
+      "red":254,
+      "green":116,
+      "blue":69
+    },
+    {
+      "name":"LEE135 Deep Golden Amber",
+      "red":159,
+      "green":34,
+      "blue":34
+    },
+    {
+      "name":"LEE136 Pale Lavender",
+      "red":175,
+      "green":128,
+      "blue":223
+    },
+    {
+      "name":"LEE137 Special Lavender",
+      "red":83,
+      "green":41,
+      "blue":207
+    },
+    {
+      "name":"LEE138 Pale Green",
+      "red":128,
+      "green":255,
+      "blue":32
+    },
+    {
+      "name":"LEE139 Primary Green",
+      "red":0,
+      "green":80,
+      "blue":0
+    },
+    {
+      "name":"LEE141 Bright Blue",
+      "red":0,
+      "green":48,
+      "blue":208
+    },
+    {
+      "name":"LEE142 Pale Violet",
+      "red":48,
+      "green":0,
+      "blue":176
+    },
+    {
+      "name":"LEE143 Pale Navy Blue",
+      "red":1,
+      "green":135,
+      "blue":150
+    },
+    {
+      "name":"LEE144 No Colour Blue",
+      "red":0,
+      "green":112,
+      "blue":223
+    },
+    {
+      "name":"LEE147 Apricot",
+      "red":255,
+      "green":118,
+      "blue":72
+    },
+    {
+      "name":"LEE148 Bright Rose",
+      "red":221,
+      "green":2,
+      "blue":96
+    },
+    {
+      "name":"LEE151 Gold Tint",
+      "red":255,
+      "green":185,
+      "blue":168
+    },
+    {
+      "name":"LEE152 Pale Gold",
+      "red":255,
+      "green":201,
+      "blue":174
+    },
+    {
+      "name":"LEE153 Pale Salmon",
+      "red":255,
+      "green":166,
+      "blue":184
+    },
+    {
+      "name":"LEE154 Pale Rose",
+      "red":255,
+      "green":204,
+      "blue":191
+    },
+    {
+      "name":"LEE156 Chocolate",
+      "red":120,
+      "green":92,
+      "blue":92
+    },
+    {
+      "name":"LEE157 Pink",
+      "red":224,
+      "green":0,
+      "blue":80
+    },
+    {
+      "name":"LEE158 Deep Orange",
+      "red":253,
+      "green":94,
+      "blue":40
+    },
+    {
+      "name":"LEE159 No Color Straw",
+      "red":255,
+      "green":255,
+      "blue":202
+    },
+    {
+      "name":"LEE161 Slate Blue",
+      "red":16,
+      "green":48,
+      "blue":144
+    },
+    {
+      "name":"LEE162 Bastard Amber",
+      "red":255,
+      "green":160,
+      "blue":128
+    },
+    {
+      "name":"LEE164 Flame Red",
+      "red":227,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"LEE165 Daylight Blue",
+      "red":0,
+      "green":64,
+      "blue":255
+    },
+    {
+      "name":"LEE166 Pale Red",
+      "red":235,
+      "green":3,
+      "blue":102
+    },
+    {
+      "name":"LEE170 Deep Lavender",
+      "red":181,
+      "green":0,
+      "blue":219
+    },
+    {
+      "name":"LEE174 Dark Steel Blue",
+      "red":0,
+      "green":69,
+      "blue":253
+    },
+    {
+      "name":"LEE176 Loving Amber",
+      "red":239,
+      "green":112,
+      "blue":96
+    },
+    {
+      "name":"LEE179 Chrome Orange",
+      "red":255,
+      "green":125,
+      "blue":47
+    },
+    {
+      "name":"LEE180 Dark Lavender",
+      "red":111,
+      "green":0,
+      "blue":223
+    },
+    {
+      "name":"LEE181 Congo Blue",
+      "red":13,
+      "green":4,
+      "blue":113
+    },
+    {
+      "name":"LEE182 Light Red",
+      "red":144,
+      "green":0,
+      "blue":0
+    },
+    {
+      "name":"LEE183 Moonlight Blue",
+      "red":32,
+      "green":96,
+      "blue":255
+    },
+    {
+      "name":"LEE184 Cosmetic Peach",
+      "red":255,
+      "green":239,
+      "blue":223
+    },
+    {
+      "name":"LEE185 Cosmetic Burgundy",
+      "red":192,
+      "green":159,
+      "blue":160
+    },
+    {
+      "name":"LEE186 Cosmetic Silver Rose",
+      "red":255,
+      "green":160,
+      "blue":207
+    },
+    {
+      "name":"LEE187 Cosmetic Rouge",
+      "red":255,
+      "green":155,
+      "blue":134
+    },
+    {
+      "name":"LEE188 Cosmetic Highlight",
+      "red":255,
+      "green":210,
+      "blue":200
+    },
+    {
+      "name":"LEE189 Cosmetic Silver Moss",
+      "red":213,
+      "green":255,
+      "blue":181
+    },
+    {
+      "name":"LEE190 Cosmetic Emerald",
+      "red":255,
+      "green":244,
+      "blue":215
+    },
+    {
+      "name":"LEE191 Cosmetic Aqua Blue",
+      "red":96,
+      "green":255,
+      "blue":223
+    },
+    {
+      "name":"LEE192 Flesh Pink",
+      "red":223,
+      "green":32,
+      "blue":96
+    },
+    {
+      "name":"LEE193 Rosy Gold",
+      "red":255,
+      "green":81,
+      "blue":103
+    },
+    {
+      "name":"LEE194 Surprise Pink",
+      "red":96,
+      "green":64,
+      "blue":191
+    },
+    {
+      "name":"LEE195 Zenith Blue",
+      "red":0,
+      "green":16,
+      "blue":96
+    },
+    {
+      "name":"LEE196 True Blue",
+      "red":0,
+      "green":64,
+      "blue":255
+    },
+    {
+      "name":"LEE197 Alice Blue",
+      "red":32,
+      "green":64,
+      "blue":191
+    },
+    {
+      "name":"LEE200 Double C.T. Blue",
+      "red":36,
+      "green":1,
+      "blue":201
+    },
+    {
+      "name":"LEE201 Full C.T. Blue",
+      "red":0,
+      "green":128,
+      "blue":255
+    },
+    {
+      "name":"LEE202 1/2 C.T. Blue",
+      "red":0,
+      "green":128,
+      "blue":191
+    },
+    {
+      "name":"LEE203 1/4 C.T. Blue",
+      "red":215,
+      "green":243,
+      "blue":255
+    },
+    {
+      "name":"LEE204 Full C.T. Orange",
+      "red":254,
+      "green":153,
+      "blue":86
+    },
+    {
+      "name":"LEE205 1/2 C.T. Orange",
+      "red":255,
+      "green":171,
+      "blue":87
+    },
+    {
+      "name":"LEE206 1/4 C.T. Orange",
+      "red":255,
+      "green":194,
+      "blue":134
+    },
+    {
+      "name":"LEE207 C.T. Orange +.3 ND",
+      "red":144,
+      "green":112,
+      "blue":96
+    },
+    {
+      "name":"LEE208 C.T. Orange +.6 ND",
+      "red":112,
+      "green":80,
+      "blue":80
+    },
+    {
+      "name":"LEE209 .3 ND",
+      "red":192,
+      "green":192,
+      "blue":192
+    },
+    {
+      "name":"LEE210 .6 ND",
+      "red":112,
+      "green":112,
+      "blue":112
+    },
+    {
+      "name":"LEE211 .9 ND",
+      "red":32,
+      "green":32,
+      "blue":32
+    },
+    {
+      "name":"LEE212 L.C.T. Yellow",
+      "red":255,
+      "green":255,
+      "blue":157
+    },
+    {
+      "name":"LEE213 White Flame Green",
+      "red":192,
+      "green":255,
+      "blue":128
+    },
+    {
+      "name":"LEE218 1/8 C.T. Blue",
+      "red":223,
+      "green":223,
+      "blue":223
+    },
+    {
+      "name":"LEE219 Lee Fluorescent Green",
+      "red":0,
+      "green":136,
+      "blue":113
+    },
+    {
+      "name":"LEE223 1/8 C.T. Orange",
+      "red":255,
+      "green":216,
+      "blue":176
+    },
+    {
+      "name":"LEE226 Lee U.V.",
+      "red":255,
+      "green":255,
+      "blue":255
+    },
+    {
+      "name":"LEE230 Super Correction L.C.T. Yellow",
+      "red":166,
+      "green":131,
+      "blue":83
+    },
+    {
+      "name":"LEE232 Super White Flame",
+      "red":198,
+      "green":135,
+      "blue":149
+    },
+    {
+      "name":"LEE236 H.M.I. To Tungsten",
+      "red":255,
+      "green":96,
+      "blue":0
+    },
+    {
+      "name":"LEE237 C.I.D. To Tungsten",
+      "red":253,
+      "green":92,
+      "blue":15
+    },
+    {
+      "name":"LEE238 C.S.I. To Tungsten",
+      "red":201,
+      "green":67,
+      "blue":56
+    },
+    {
+      "name":"LEE241 Lee Fluorescent 5700K",
+      "red":13,
+      "green":152,
+      "blue":155
+    },
+    {
+      "name":"LEE242 Lee Fluorescent 4300K",
+      "red":50,
+      "green":181,
+      "blue":135
+    },
+    {
+      "name":"LEE243 Lee Fluorescent 3600K",
+      "red":0,
+      "green":206,
+      "blue":114
+    },
+    {
+      "name":"LEE244 Lee Plus Green",
+      "red":112,
+      "green":223,
+      "blue":64
+    },
+    {
+      "name":"LEE245 Half Plus Green",
+      "red":192,
+      "green":255,
+      "blue":128
+    },
+    {
+      "name":"LEE246 Quarter Plus Green",
+      "red":203,
+      "green":255,
+      "blue":151
+    },
+    {
+      "name":"LEE247 Lee Minus Green",
+      "red":255,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"LEE248 Half Minus Green",
+      "red":255,
+      "green":0,
+      "blue":255
+    },
+    {
+      "name":"LEE249 Quarter Minus Green",
+      "red":255,
+      "green":128,
+      "blue":192
+    },
+    {
+      "name":"LEE278 Eighth Plus Green",
+      "red":220,
+      "green":255,
+      "blue":151
+    },
+    {
+      "name":"LEE279 Eighth Minus Green",
+      "red":255,
+      "green":128,
+      "blue":255
+    },
+    {
+      "name":"LEE281 3/4 C.T. Blue",
+      "red":0,
+      "green":24,
+      "blue":136
+    },
+    {
+      "name":"LEE285 3/4 C.T. Orange",
+      "red":215,
+      "green":32,
+      "blue":0
+    },
+    {
+      "name":"LEE298 .15 ND",
+      "red":224,
+      "green":224,
+      "blue":224
+    },
+    {
+      "name":"LEE299 1.2 ND",
+      "red":16,
+      "green":16,
+      "blue":16
+    },
+    {
+      "name":"LEE328 Follies Pink",
+      "red":204,
+      "green":0,
+      "blue":43
+    },
+    {
+      "name":"LEE332 Special Rose Pink",
+      "red":195,
+      "green":0,
+      "blue":75
+    },
+    {
+      "name":"LEE343 Special Medium Lavender",
+      "red":32,
+      "green":0,
+      "blue":128
+    },
+    {
+      "name":"LEE344 Violet",
+      "red":32,
+      "green":32,
+      "blue":191
+    },
+    {
+      "name":"LEE353 Lighter Blue",
+      "red":27,
+      "green":136,
+      "blue":219
+    },
+    {
+      "name":"LEE354 Special Steel Blue",
+      "red":0,
+      "green":223,
+      "blue":223
+    },
+    {
+      "name":"LEE363 Special Medium Blue",
+      "red":0,
+      "green":0,
+      "blue":96
+    },
+    {
+      "name":"LEE441 Full C.T. Straw",
+      "red":255,
+      "green":96,
+      "blue":0
+    },
+    {
+      "name":"LEE442 Half C.T. Straw",
+      "red":254,
+      "green":198,
+      "blue":114
+    },
+    {
+      "name":"LEE443 Quarter C.T. Straw",
+      "red":239,
+      "green":207,
+      "blue":143
+    },
+    {
+      "name":"LEE444 Eighth C.T. Straw",
+      "red":254,
+      "green":232,
+      "blue":186
+    }
+  ]
+}
