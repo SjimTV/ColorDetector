@@ -26,7 +26,9 @@ public class SendColorOSCTask extends AsyncTask<int[], Void, Void> {
         for (int i = 0; colorArray[0].length > i; i++){
             try {
                 if (sendMQ){
-                    oscSender.send(prepareUncheckedMessage(String.format(mqArguments[i], colorArray[0][i])));
+                    int colorValue = colorArray[0][i];
+                    if (i != 3) colorValue = turnByteUpsideDown(colorValue);
+                    oscSender.send(prepareUncheckedMessage(String.format(mqArguments[i], colorValue)));
                 } else {
                     oscSender.send(prepareMessage(colorArguments[i], colorArray[0][i]));
                 }
@@ -47,5 +49,9 @@ public class SendColorOSCTask extends AsyncTask<int[], Void, Void> {
 
     private UncheckedOSCMessage prepareUncheckedMessage(String address){
         return new UncheckedOSCMessage(address, null);
+    }
+
+    private int turnByteUpsideDown(int oldValue){
+        return 255 - oldValue;
     }
 }

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sjimtv.colordetector">
+    package="com.sjimtv.colordetector"
+    android:versionCode="1"
+    android:versionName="alpha">
 
     <uses-feature android:name="android.hardware.camera.any" />
 
@@ -17,7 +19,8 @@
         android:theme="@style/AppTheme">
         <activity android:name=".ColorLibraryActivity" />
         <activity android:name=".SchemeActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
